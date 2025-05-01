@@ -71,20 +71,8 @@ React
 
 Tailwind CSS
 
-📷 Screenshots
-Optional — you can add screenshots here if you'd like.
-
 📚 Learning Goal
 This is a personal learning project to become comfortable with using Zustand in modern React + Next.js apps.
-
-📝 License
-This project is for educational and personal practice use only.
-
-yaml
-Copy
-Edit
-
----
 
 ### Key Update:
 - **Step 1** now includes the instruction to install Zustand using:
