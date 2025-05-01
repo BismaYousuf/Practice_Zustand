@@ -32,7 +32,16 @@ Edit
 ## 🚀 Getting Started
 
 ### 1. Install Dependencies
+
+First, make sure you have **Zustand** installed:
+
 ```bash
+npm install zustand
+Then, install the remaining project dependencies:
+
+bash
+Copy
+Edit
 npm install
 2. Run the Development Server
 bash
@@ -68,3 +77,16 @@ Optional — you can add screenshots here if you'd like.
 📚 Learning Goal
 This is a personal learning project to become comfortable with using Zustand in modern React + Next.js apps.
 
+📝 License
+This project is for educational and personal practice use only.
+
+yaml
+Copy
+Edit
+
+---
+
+### Key Update:
+- **Step 1** now includes the instruction to install Zustand using:
+  ```bash
+  npm install zustand
